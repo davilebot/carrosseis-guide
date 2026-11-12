@@ -1,38 +1,39 @@
-# Carrosséis Premium V4
+# Carrosséis Premium
 
-Skill autocontida para **criar, auditar, comparar e refinar carrosséis**. Versão compilada a partir da conversa de refinamento do carrossel do Mercado Livre, do PDF de 12 páginas, dos dois conjuntos de Pinterest e do pacote ZIP de guias e referências de conteúdo. O material prioriza exemplos já executados, com explicação do por que é como adaptar.
+Versão 5.0.0. Skill para criar, auditar, comparar e revisar carrosséis com copy específica, progressão narrativa, direção de arte e edição localizada.
 
-## Instalacao
+## Importação de um único arquivo
 
-A estrutura deste arquivo ZIP contém a pasta `carrosseis-premium/`. Extraia-a e instale como pasta de skills do agente. A entrada da skill é `SKILL.md`; mantenha as pastas `playbooks/`, `examples/`, `referencias/`, `profiles/`, `assets/` e `tests/` ao lado do arquivo principal. Dependendo do agente, o caminho da pasta de skills pode ser `.agents/skills/` ou `.claude/skills/`.
+O `SKILL.md` contém as instruções, os exemplos e o perfil opcional do Davi. Foi adaptado para importadores que carregam somente esse arquivo. Não depende de abrir playbooks, links, PDFs ou imagens do pacote.
 
-## Exemplos de invocacao
+Importe o repositório ou o `SKILL.md` pelo fluxo do seu agente. As ferramentas disponíveis determinam a capacidade de produzir ou editar arte; o arquivo fornece os critérios de execução. A aceitação e eventuais limites de tamanho do importador precisam ser conferidos no aplicativo utilizado.
 
-- `Use $carrosseis-premium para gerar um carrossel de 7 slides sobre por que clientes demoram a responder propostas. Quero estilo Davi.`
-- `Use $carrosseis-premium para auditar esta copy. Me traga antes/depois de ganchos, transições e CTA. Não mexa em fatos.`
-- `Use $carrosseis-premium para revisar somente o slide 4. Preserve os outros sete e a imagem principal.`
-- `Use $carrosseis-premium para criar um carrossel de lista usando o sistema visual do cliente [X], sem aplicar a paleta do Davi.`
+## Conteúdo incorporado
 
-## Princípio mais importante
+- Processo de criação demonstrado com uma pauta, quatro arquiteturas e mapa preenchido.
+- Nove motores de identificação e oito de curiosidade, ligados ao desenvolvimento do conteúdo.
+- Seleção de 16 ganchos com cenas específicas e entrega narrativa.
+- Retenção, frameworks e sequências completas ou compactas de formatos distintos.
+- Dezesseis composições e descrição textual dos mecanismos das referências.
+- Perfil Davi com voz, identidade em calibração e exemplos.
+- Oito antes/depois que incluem contexto, tela, composição, continuidade e resultado esperado.
+- Produção, auditoria e preservação de decisões em revisões locais.
 
-**Não basta dizer o que fazer. Mostre o resultado da técnica sendo aplicada.** Todo playbook inclui exemplos concretos. Análise o material e generalize a lógica, não o assunto. O estudo do Mercado Livre é um precedente, não o padrão universal.
+## Exemplos de uso
 
-## Fact-check fora de escopo
+- `Use carrosseis-premium para criar sete slides sobre propostas que ficam sem resposta. Quero estilo Davi.`
+- `Audite esta transição. Mostre o contexto, a frase substituta e o que a próxima tela deve entregar.`
+- `Revise só o slide 4. Preserve a copy restante, a imagem principal e os demais slides.`
+- `Componha esta copy aprovada para a identidade do cliente, sem aplicar o perfil Davi.`
 
-Criação e revisão conteudista não fazem pesquisa factual, não énfraquecem o gancho com condicionais, não bloqueiam copy por falta de citações. A verificação é uma etapa manual externa definida pelo usuario. Confira a política editorial da skill antes de aplicar.
+## Acervo preservado
 
-## Canais e imagem
+As pastas `playbooks/`, `examples/`, `referencias/`, `profiles/` e `assets/` preservam o material de origem e repertório anterior. Não são dependências operacionais do arquivo único. Seus textos podem refletir calibrações anteriores; os ajustes desta versão estão consolidados no `SKILL.md`.
 
-Os exemplos priorizam Instagram e LinkedIn. A proporção usada nos testes foi aproximadamente 4:5 por slide. Verifique as especificacoes da plataforma no momento de publicar, no seu fluxo externo. Não dependa de links externos para executar a skill.
+O banco histórico de 80 ganchos permanece no acervo; a seleção de 16 incorporada ao arquivo principal foi revisada nesta versão. Capturas, PDF e estudos de caso continuam disponíveis no repositório, sem exigência de consulta para usar a skill.
 
-## Arquivos da referência
+Imagens de terceiros são material de estudo, não assets livres para republicação. O pacote não inclui fontes tipográficas.
 
-- `referencias/diagnostico-pdf-12-paginas.md` comenta página a página o PDF original e inclui exemplos de adaptacao; PDF original em `assets/diagnostico/`.
-- `referencias/pinterest-anotado.md` explica as 9 telas fornecidas dos pins; arquivos JPEG em `assets/pinterest/`.
-- `referencias/instagram-e-pinterest.md` mapeia as 36 capturas locais dos cinco posts, as nove imagens do Pinterest e os registros textuais do Notion.
-- `examples/casos/02-concorrente-barato.md` decupa o carrossel próprio do usuário de 14 slides; PNGs em `assets/concorrente-barato/`.
-- `examples/casos/01-mercado-livre.md` preserva decisões aprovadas/rejeitadas e a origem da frase "só a parte óbvia"; imagens de teste em `assets/mercado-livre/`.
+## Validação
 
-## Licenciamento de referências
-
-Imagens e capturas de criadores de terceiros foram fornecidas como material de estudo. São referências, **não assets livres para republicacao**. A skill não inclui nenhum arquivo de fonte tipográfica. Consulte `NOTAS-DE-ORIGEM.md`.
+O smoke-test em `tests/verifica-estrutura.py` verifica a presença do acervo. Os exercícios da seção 13 do `SKILL.md` permitem avaliar o comportamento usando somente o arquivo principal. Uma verificação estrutural não substitui o teste de criação ou a importação no aplicativo.

@@ -1,9 +1,8 @@
 {
   "skill_name": "carrosseis-premium",
-  "version": "4.1.0",
+  "version": "5.0.0",
   "entrypoint": "SKILL.md",
   "self_contained": true,
-  "factual_verification": "outside creative workflow, manual user responsibility",
   "includes": {
     "hook_examples": 80,
     "transition_before_after": 24,
@@ -16,13 +15,15 @@
     "original_diagnostic_pdf_pages": 12,
     "instagram_slide_captures": 36,
     "instagram_contact_sheets": 5,
-    "notion_source_documents": 3
+    "notion_source_documents": 3,
+    "entrypoint_hook_examples": 16,
+    "entrypoint_contextual_before_after": 8
   },
   "files": [
     {
       "path": "CHANGELOG.md",
-      "bytes": 1221,
-      "sha256": "5571a5c7b2a0e45f2f483169b5b944190ea55fe008953118491889e310dc84ff"
+      "bytes": 2086,
+      "sha256": "921106eac47f9f99a88bf73993412631593cfeed2611048eb18aa7d8db6faa7f"
     },
     {
       "path": "NOTAS-DE-ORIGEM.md",
@@ -31,13 +32,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 3200,
-      "sha256": "36e50e402f5eb7e84a7dade559f52f2700553b53c5b6003145d9b6b3e7fb2422"
+      "bytes": 2845,
+      "sha256": "0a2e05c09de2c36ef1fbb87c6a17b85fbb1cf882a16fbaac532129e725a46a10"
     },
     {
       "path": "SKILL.md",
-      "bytes": 10387,
-      "sha256": "c70e30193a6bf77d07ff452cec96e751983b23e943fd3ff542a62cc055e9a217"
+      "bytes": 56253,
+      "sha256": "f683188fd86a4a79e5195102556d54eac665fd1e05e80a9c3f9256e7348ee3f7"
     },
     {
       "path": "assets/INDEX.md",
@@ -824,5 +825,7 @@
       "bytes": 1778,
       "sha256": "ff149fcf3bdd0ae9e0d6785f826cd3cbc874dd925dd16192e11fee8630970479"
     }
-  ]
+  ],
+  "entrypoint_self_contained": true,
+  "reference_mode": "text only; supporting archive not required"
 }
