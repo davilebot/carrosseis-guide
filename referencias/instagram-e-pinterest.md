@@ -1,7 +1,6 @@
 # As referências externas originais e o que se sabe sem abrir a internet
 
-Este arquivo registra **proveniência** e interpretações consolidadas. O trabalho da skill não depende de acessibilidade dos links. Para o Pinterest, as 9 imagens estão locais e completamente anotadas em `pinterest-anotado.md`. Para os cinco Instagram abaixo, o pacote de origem não traz capturas correspondentes nem uma leitura visual individual confirmada. Não inventar caracteristicas de cada uma.
-
+Os cinco posts do Instagram estão disponíveis como capturas locais em `assets/instagram/`, sem depender de login, URL ou rede. Capturadas em 11/11/2026. São imagens de referência, não arquivos originais em resolução máxima; itens em vídeo têm apenas captura estática. As preferências abaixo são as já registradas pelo usuário, sem nova análise. Para Pinterest, permanecem as 9 imagens locais e anotações anteriores.
 ## Cinco links escolhidos pelo usuário para tipografia, acentos e vibe tech
 
 1. https://www.instagram.com/p/Dej04hnEW4D/?img_index=2&vrfl=aGtxbGZ2dWdqaTli
@@ -32,3 +31,28 @@ Local: `assets/pinterest/`. Leia `pinterest-anotado.md` para telas A_01..04 e B_
 ## Regra de independência
 
 A skill consegue trabalhar com TODAS as diretrizes acima e imagens locais sem abrir URL. Se o usuário trouxer novos screenshots de Instagram, anexar apenas depois de observacao. Não prometer que cada link foi visto quando não foi. Nunca dar como obrigatório buscar online ou entrar no Notion.
+
+
+## Índice das capturas do Instagram
+
+Abra `contato.jpg` para localizar uma tela e depois o PNG individual para inspecionar detalhes. Os números seguem a ordem do carrossel. O `img_index` do link original identifica a tela destacada pelo usuário; a sequência inteira foi preservada para contexto.
+
+| Post | Pasta local | Telas | Destaque original |
+| --- | --- | ---: | ---: |
+| Dej04hnEW4D | `assets/instagram/Dej04hnEW4D/` | 8 | 2 |
+| De4Z4JNkbXC | `assets/instagram/De4Z4JNkbXC/` | 9 | 5 |
+| DfHlHgkkYpD | `assets/instagram/DfHlHgkkYpD/` | 6 | 3 |
+| DezgnR8ES8o | `assets/instagram/DezgnR8ES8o/` | 6 | 3 |
+| DezrxRTEfuz | `assets/instagram/DezrxRTEfuz/` | 7 | 3 |
+
+Em cada pasta: `slide-01.png` até a última tela e `contato.jpg`. As capturas incluem controles visíveis do Instagram; não são templates para reprodução.
+
+## Conteúdo do Notion incorporado
+
+Fonte: https://app.notion.com/p/406d7c9e9ceb8192a563ea69fb08cc08
+
+- `referencias/mercado-livre-notion.md`: conteúdo textual do corpo da página, incluindo a checagem factual histórica.
+- `referencias/mercado-livre-auditoria-v7b.md`: parecer original recuperado, com ajustes da capa, rótulo e crédito.
+- `referencias/mercado-livre-reauditoria-v7d.md`: parecer original da versão v7d e seus limites.
+
+São registros da fonte, sem nova análise. Os PNGs antigos em `assets/mercado-livre/` permanecem identificados como testes; não são os PNGs v7d do Drive. Os links internos dos registros preservam proveniência; a leitura do texto exportado independe deles.

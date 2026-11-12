@@ -96,3 +96,8 @@ Para **aprender**: registrar `antes -> feedback -> depois -> por que -> o que ge
 ## 7. Independencia garantida
 
 Todo conhecimento operacional está neste ZIP. O acesso ao Notion, conversas anteriores, Pinterest, Instagram, Drive e Google não é necessário. Os links externos em `referencias/` são PROVENIENCIA e pontos de consulta opcionais. O PDF original, as imagens dos pins fornecidas pelo usuário, prints de ganchos, cases e exemplos locais estao em `assets/`. Material de terceiros e para estudo/referencia privada; não publicar ou replicar sem direitos de uso.
+
+
+## Consultar as referências visuais locais
+
+Antes de compor com as referências indicadas pelo usuário, consulte `referencias/instagram-e-pinterest.md`. Abra as folhas `assets/instagram/<post>/contato.jpg` e os PNGs relevantes; os cinco posts têm 36 capturas locais. Não substitua a inspeção dessas imagens pela leitura das URLs. O conteúdo textual do Notion e dois pareceres originais estão nos três arquivos `referencias/mercado-livre-*.md` listados no índice. Nenhuma nova análise foi acrescentada nesta atualização.

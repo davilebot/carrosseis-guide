@@ -23,7 +23,7 @@ for f in required:
  if not (root/f).is_file():errors.append('FALTA: '+f)
 for label,glob,n in [('Pinterest','pin*.jpg',9),('Concorrente','*.png',14),('Sam','*.png',8)]:
  folder={'Pinterest':'assets/pinterest','Concorrente':'assets/concorrente-barato','Sam':'assets/sam-gaudet'}[label]
- got=sum(1 for p in (root/folder).glob(glob) if label!='Concorrente' or p.name[:2].isdigit())
+ got=sum(1 for p in (root/folder).glob(glob) if not p.name.startswith('._') and (label!='Concorrente' or p.name[:2].isdigit()))
  if got!=n:errors.append(f'{label}: {got}, esperado {n}')
 sk=(root/'SKILL.md').read_text(encoding='utf-8')
 if not sk.startswith('---\n'):errors.append('SKILL.md sem frontmatter')

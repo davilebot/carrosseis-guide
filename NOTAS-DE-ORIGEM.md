@@ -18,7 +18,7 @@ Não foram importados para a runtime: logs de rotina e automacao do squad, fluxo
 
 ## O que não ésta plenamente observavel
 
-As cinco URLs de Instagram que o usuário compartilhou nesta conversa não vieram em screenshots no ZIP e não tiveram visualização individual confirmada. Seus links e as preferencias verbalizadas foram guardados, sem inventar detalhes. A skill funciona sem a imagem externa.
+Os cinco posts do Instagram foram capturados em 11/11/2026: 36 telas e cinco folhas de contato em `assets/instagram/`. São capturas estáticas para consulta offline. O corpo da página do Notion e dois pareceres originais foram incorporados em `referencias/mercado-livre-*.md`, sem novas análises.
 
 ## Direitos de uso
 

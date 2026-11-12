@@ -1,6 +1,6 @@
 {
   "skill_name": "carrosseis-premium",
-  "version": "4.0.0",
+  "version": "4.1.0",
   "entrypoint": "SKILL.md",
   "self_contained": true,
   "factual_verification": "outside creative workflow, manual user responsibility",
@@ -13,33 +13,36 @@
     "pinterest_slide_images": 9,
     "sam_gaudet_screenshots": 8,
     "prior_user_carousel_slides": 14,
-    "original_diagnostic_pdf_pages": 12
+    "original_diagnostic_pdf_pages": 12,
+    "instagram_slide_captures": 36,
+    "instagram_contact_sheets": 5,
+    "notion_source_documents": 3
   },
   "files": [
     {
       "path": "CHANGELOG.md",
-      "bytes": 989,
-      "sha256": "ecf1a9d0bab71880a36d0c6c2e83a7a0091dc8084026220e99c8b94da740c4fc"
+      "bytes": 1221,
+      "sha256": "5571a5c7b2a0e45f2f483169b5b944190ea55fe008953118491889e310dc84ff"
     },
     {
       "path": "NOTAS-DE-ORIGEM.md",
-      "bytes": 2829,
-      "sha256": "a9b401bee317437d0c42f968153fc31b15228c4a36f625a0eff49879e2d3d282"
+      "bytes": 2851,
+      "sha256": "e878cda87ff34cf67e892a9d2475687d086804dd6a6c64c13f464d173ffd99cb"
     },
     {
       "path": "README.md",
-      "bytes": 3187,
-      "sha256": "4c8de269b297b00e22f915e5634549d1f0b9855820d87f7b586485a5d32c164d"
+      "bytes": 3200,
+      "sha256": "36e50e402f5eb7e84a7dade559f52f2700553b53c5b6003145d9b6b3e7fb2422"
     },
     {
       "path": "SKILL.md",
-      "bytes": 9852,
-      "sha256": "c03068c16254ca53e4ba0e2e5b084574653ef97a06eab9dff3e6e022fb69b791"
+      "bytes": 10387,
+      "sha256": "c70e30193a6bf77d07ff452cec96e751983b23e943fd3ff542a62cc055e9a217"
     },
     {
       "path": "assets/INDEX.md",
-      "bytes": 1401,
-      "sha256": "0558360598f74dac75aa0805528715d8ae4a10cdbbe75a758464b6146ff10be8"
+      "bytes": 1524,
+      "sha256": "8fc73333b72f425a8286a93fbef02746267b4eaf394cdc528854945c7cdadda1"
     },
     {
       "path": "assets/backlog/_folha-contato-br.jpg",
@@ -322,6 +325,211 @@
       "sha256": "0caf16b6da151ef2824a3407d0400d669c803c8ed6bace29d70e9c7c8de44cde"
     },
     {
+      "path": "assets/instagram/De4Z4JNkbXC/contato.jpg",
+      "bytes": 127597,
+      "sha256": "e93409921623770101a7ff32908ea1ab3153b68972ab2957a14dc7a0c181bd88"
+    },
+    {
+      "path": "assets/instagram/De4Z4JNkbXC/slide-01.png",
+      "bytes": 358769,
+      "sha256": "f960cfeb9dc277cacb4edcc776c6478bacfe8fcf0b78574dad2406ace81b2842"
+    },
+    {
+      "path": "assets/instagram/De4Z4JNkbXC/slide-02.png",
+      "bytes": 186241,
+      "sha256": "f029a08c37726ee5ce178ad11d79dace5cbc2e0eebb9fdb1ed7b986bf79d4c22"
+    },
+    {
+      "path": "assets/instagram/De4Z4JNkbXC/slide-03.png",
+      "bytes": 267914,
+      "sha256": "3f89e29add9c4546348ee1f73f71ca724b0848e77cbd059e88c6062e34f96546"
+    },
+    {
+      "path": "assets/instagram/De4Z4JNkbXC/slide-04.png",
+      "bytes": 163308,
+      "sha256": "7775f92a6f71c695e19262bc4bf22124c0cf56cc74750d212ab0284f0828d52d"
+    },
+    {
+      "path": "assets/instagram/De4Z4JNkbXC/slide-05.png",
+      "bytes": 313417,
+      "sha256": "09af6a1e72720080a5cdead00d168d54dd78ab9d29f63f73f521b1c5e6a02c8c"
+    },
+    {
+      "path": "assets/instagram/De4Z4JNkbXC/slide-06.png",
+      "bytes": 336734,
+      "sha256": "588c17f04c98c7204ef4f836f84f72804da5b8a76c2848b66cf0c0034d52c3db"
+    },
+    {
+      "path": "assets/instagram/De4Z4JNkbXC/slide-07.png",
+      "bytes": 158423,
+      "sha256": "a2495e6ba3e0cb0ab49ceb51f6a6841696194d3c0760cd12115fdd325472bbe3"
+    },
+    {
+      "path": "assets/instagram/De4Z4JNkbXC/slide-08.png",
+      "bytes": 316449,
+      "sha256": "421e0924fcb801838d8b6b032d40c666ad9d7d8ffd30de2821da011d19f5f6b0"
+    },
+    {
+      "path": "assets/instagram/De4Z4JNkbXC/slide-09.png",
+      "bytes": 387422,
+      "sha256": "a206bafa9df1aebdddd2cbcf0b3931ead8a295691237871e34cd8880adffe550"
+    },
+    {
+      "path": "assets/instagram/Dej04hnEW4D/contato.jpg",
+      "bytes": 109029,
+      "sha256": "fdb5cae51c1cabcc0c2f2e8adc5577c8f6abcd83534dfc9a89b7cd667853dc24"
+    },
+    {
+      "path": "assets/instagram/Dej04hnEW4D/slide-01.png",
+      "bytes": 344342,
+      "sha256": "c3c1ac30b78bd3ecad8c51f89085ac8416242868f33d5237fd2d4a7fdc5b8df7"
+    },
+    {
+      "path": "assets/instagram/Dej04hnEW4D/slide-02.png",
+      "bytes": 276791,
+      "sha256": "25bbbf51d415e675ffa9ea2df90f9cea41556bf99fcd2b885bba19f74ed7edca"
+    },
+    {
+      "path": "assets/instagram/Dej04hnEW4D/slide-03.png",
+      "bytes": 159259,
+      "sha256": "71e471d5e16e8467bc84d50426c76e6d520688d732810512a06618d9dff15689"
+    },
+    {
+      "path": "assets/instagram/Dej04hnEW4D/slide-04.png",
+      "bytes": 233849,
+      "sha256": "8c5cfe7e1a1c31b901fb07775bd458c65ec18af8d27a296c3dfd4c59916b9ba2"
+    },
+    {
+      "path": "assets/instagram/Dej04hnEW4D/slide-05.png",
+      "bytes": 188470,
+      "sha256": "3cc008fb1efcdaad996823c9660e1e834b3938601a9eb2b8e07d4218bc2f53fd"
+    },
+    {
+      "path": "assets/instagram/Dej04hnEW4D/slide-06.png",
+      "bytes": 140889,
+      "sha256": "1155125177e3cdb6c7fb2d750568b7b73dee28f98ccb20faa2f90fd7b95785ab"
+    },
+    {
+      "path": "assets/instagram/Dej04hnEW4D/slide-07.png",
+      "bytes": 388424,
+      "sha256": "71dcbcf2912dac06d0397121469e84328d7cdc130eb07732ff88980682b46e7f"
+    },
+    {
+      "path": "assets/instagram/Dej04hnEW4D/slide-08.png",
+      "bytes": 227513,
+      "sha256": "76a63a101079d2ff3ded8c10665f4686e5fff23beabe7a470279061a7bfa759c"
+    },
+    {
+      "path": "assets/instagram/DezgnR8ES8o/contato.jpg",
+      "bytes": 82267,
+      "sha256": "398be7e51c5540364afe5802252cd252e0ae893ecfcf9d0d835ab7162156b912"
+    },
+    {
+      "path": "assets/instagram/DezgnR8ES8o/slide-01.png",
+      "bytes": 341343,
+      "sha256": "dbf0bc9cf70e26fe9d4829eee90ce40e65f6fe6e434bcb3639a1bdce3f85f15b"
+    },
+    {
+      "path": "assets/instagram/DezgnR8ES8o/slide-02.png",
+      "bytes": 304475,
+      "sha256": "0003e4e88de5fc9ebd589622132c3730236e403ec5eec20652ceff815b270689"
+    },
+    {
+      "path": "assets/instagram/DezgnR8ES8o/slide-03.png",
+      "bytes": 100568,
+      "sha256": "b0ce2ad159577ba6aaabb48221e077bc51a8c77061474e1f107b9211eaf0ee9a"
+    },
+    {
+      "path": "assets/instagram/DezgnR8ES8o/slide-04.png",
+      "bytes": 272706,
+      "sha256": "41a5e3586ced3c5aa1fb0d990779709b0d9b1834920878769ab05efdbfb26166"
+    },
+    {
+      "path": "assets/instagram/DezgnR8ES8o/slide-05.png",
+      "bytes": 215377,
+      "sha256": "6e9bb26ba90a4eafb8441419fab1bffa52e043d4d9844b9cd9c0f310a47ea510"
+    },
+    {
+      "path": "assets/instagram/DezgnR8ES8o/slide-06.png",
+      "bytes": 226620,
+      "sha256": "8f61e153c2416a119db09601139af10b6b960424c85827c2e7d0e6815b315f50"
+    },
+    {
+      "path": "assets/instagram/DezrxRTEfuz/contato.jpg",
+      "bytes": 109645,
+      "sha256": "0d3ae556d67327a2d5f267b0fcd67c40947124573bb0ba8727f66fe32ab3920e"
+    },
+    {
+      "path": "assets/instagram/DezrxRTEfuz/slide-01.png",
+      "bytes": 401690,
+      "sha256": "b5108df95b37ec71477ab0a9579a4aec179d364e84cce796de7c696fb6511dd5"
+    },
+    {
+      "path": "assets/instagram/DezrxRTEfuz/slide-02.png",
+      "bytes": 141612,
+      "sha256": "986b8145afa477fa927542bf4bba46885fd53b5222edd11cb5d7397b40ac344a"
+    },
+    {
+      "path": "assets/instagram/DezrxRTEfuz/slide-03.png",
+      "bytes": 191888,
+      "sha256": "0df004b33f1cb9841668f2a72cbb8adb4ceee5219cebd470c4c848b49d6c73a8"
+    },
+    {
+      "path": "assets/instagram/DezrxRTEfuz/slide-04.png",
+      "bytes": 177424,
+      "sha256": "d717d98c1c22fd07a8a7b9ebc93f93b008c3393fa8c76dc66b6bdb37143c974d"
+    },
+    {
+      "path": "assets/instagram/DezrxRTEfuz/slide-05.png",
+      "bytes": 230466,
+      "sha256": "9b380f26cc777507947073dac4b46171ec9dfe0236f895ca6d466052d777106e"
+    },
+    {
+      "path": "assets/instagram/DezrxRTEfuz/slide-06.png",
+      "bytes": 174069,
+      "sha256": "3537df8ddcb9707efd731d6062bde34da69cb495bcdf1e5da2a6cb67ebc9da49"
+    },
+    {
+      "path": "assets/instagram/DezrxRTEfuz/slide-07.png",
+      "bytes": 418069,
+      "sha256": "91c7693b8ce6ed1bf10ac441780264f6932bad79ca89cbbc0f2c43e9d6c726e7"
+    },
+    {
+      "path": "assets/instagram/DfHlHgkkYpD/contato.jpg",
+      "bytes": 94759,
+      "sha256": "e9a0e6fed6f55484baf3de4776163d15e3224756f91ca838053620da81c62c3e"
+    },
+    {
+      "path": "assets/instagram/DfHlHgkkYpD/slide-01.png",
+      "bytes": 436971,
+      "sha256": "33ff0e0e127601dac8d300179fd69c8ad8f91d3f1bee6c175bb478a12150cf00"
+    },
+    {
+      "path": "assets/instagram/DfHlHgkkYpD/slide-02.png",
+      "bytes": 325378,
+      "sha256": "2ba271a63f55b1d9999011a23e8ebf29f8df594fe9a1f6773a36dc091f690b7b"
+    },
+    {
+      "path": "assets/instagram/DfHlHgkkYpD/slide-03.png",
+      "bytes": 348861,
+      "sha256": "c369e1075f59dd9a50b7567871a999eda6292341c5e4fc40464b52f5a282d3fd"
+    },
+    {
+      "path": "assets/instagram/DfHlHgkkYpD/slide-04.png",
+      "bytes": 321098,
+      "sha256": "5f104a1a07ef20feb5bd59e11629f7eeab43ed8decc0b22409930600ce1a5c80"
+    },
+    {
+      "path": "assets/instagram/DfHlHgkkYpD/slide-05.png",
+      "bytes": 313663,
+      "sha256": "1f474cf739ca5020b79d7e29e132605cbc782f5b6d7c5ba8fd37fd398bff12cb"
+    },
+    {
+      "path": "assets/instagram/DfHlHgkkYpD/slide-06.png",
+      "bytes": 387409,
+      "sha256": "f5449d3609fa1e1acf5332cccae3b8cf66876cac4f0f883de11a7264d96e18d7"
+    },
+    {
       "path": "assets/mercado-livre/preview-v3.png",
       "bytes": 2060049,
       "sha256": "602b3b6b92d0eaaa1cca8d09377bd034c74df12d2571d2897ce53e48f65ed157"
@@ -578,8 +786,23 @@
     },
     {
       "path": "referencias/instagram-e-pinterest.md",
-      "bytes": 2763,
-      "sha256": "46c10ae2ada394475f7e5b2a895b6bdd53ec9abde559ea66417b24e1f601604b"
+      "bytes": 4323,
+      "sha256": "009e22358b1d69a133b9fcc3f2e75f51d2a422cb38533007695b19b987ab38c6"
+    },
+    {
+      "path": "referencias/mercado-livre-auditoria-v7b.md",
+      "bytes": 2709,
+      "sha256": "19120a2ef9e063f4f242ead38c31c3b42bc3ed2b3c3967a3805d0f4e0eacf3a8"
+    },
+    {
+      "path": "referencias/mercado-livre-notion.md",
+      "bytes": 6541,
+      "sha256": "52354291c72b1784e2f00dd148221d49c9a23d3d61188b0bcbdae30fadc12262"
+    },
+    {
+      "path": "referencias/mercado-livre-reauditoria-v7d.md",
+      "bytes": 3723,
+      "sha256": "b467876c2ea7db82c2f8826e13af18765e62ce6638e9ccc53ff7654356603fde"
     },
     {
       "path": "referencias/pinterest-anotado.md",
@@ -598,8 +821,8 @@
     },
     {
       "path": "tests/verifica-estrutura.py",
-      "bytes": 1744,
-      "sha256": "0cc05fa827f1c4994ee3066799f1a1f2774546d67b9058644f282fa008f032ff"
+      "bytes": 1778,
+      "sha256": "ff149fcf3bdd0ae9e0d6785f826cd3cbc874dd925dd16192e11fee8630970479"
     }
   ]
 }

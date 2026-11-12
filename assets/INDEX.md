@@ -13,3 +13,5 @@ Todos os arquivos desta pasta são material de estudo incluido pelo usuário ou 
 | Diagnostico PDF | 1 | `referencias/diagnostico-pdf-12-paginas.md` explica todas as páginas. |
 
 **Status visual do Mercado Livre:** `slide-04-final.png` contem a versão com provocação escolhida. `slide-04-cards-rejeitados.png` e `slide-04-antecipacao-rejeitada.png` são referências NEGATIVAS. Os arquivos `slide-01.png`...`slide-08.png` são recortes de um prototipo anterior, não uma versão final de publicacao.
+
+| Instagram (5 posts) | 36 capturas + 5 folhas de contato | `referencias/instagram-e-pinterest.md` mapeia post e slide. |

@@ -29,7 +29,7 @@ Os exemplos priorizam Instagram e LinkedIn. A proporção usada nos testes foi a
 
 - `referencias/diagnostico-pdf-12-paginas.md` comenta página a página o PDF original e inclui exemplos de adaptacao; PDF original em `assets/diagnostico/`.
 - `referencias/pinterest-anotado.md` explica as 9 telas fornecidas dos pins; arquivos JPEG em `assets/pinterest/`.
-- `referencias/instagram-e-pinterest.md` preserva as 5 URLs de Instagram originalmente informadas, com limites de observacao explícitos.
+- `referencias/instagram-e-pinterest.md` mapeia as 36 capturas locais dos cinco posts, as nove imagens do Pinterest e os registros textuais do Notion.
 - `examples/casos/02-concorrente-barato.md` decupa o carrossel próprio do usuário de 14 slides; PNGs em `assets/concorrente-barato/`.
 - `examples/casos/01-mercado-livre.md` preserva decisões aprovadas/rejeitadas e a origem da frase "só a parte óbvia"; imagens de teste em `assets/mercado-livre/`.
 

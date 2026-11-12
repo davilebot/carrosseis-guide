@@ -1,3 +1,9 @@
+# 4.1.0 — 11/11/2026
+
+- Inclui 36 capturas dos cinco posts do Instagram e cinco folhas de contato.
+- Incorpora conteúdo textual do Notion e dois pareceres originais, sem novas análises.
+- Atualiza roteamento local e manifesto.
+
 # Changelog
 
 ## 4.0.0
