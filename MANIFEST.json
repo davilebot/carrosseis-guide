@@ -1,0 +1,605 @@
+{
+  "skill_name": "carrosseis-premium",
+  "version": "4.0.0",
+  "entrypoint": "SKILL.md",
+  "self_contained": true,
+  "factual_verification": "outside creative workflow, manual user responsibility",
+  "includes": {
+    "hook_examples": 80,
+    "transition_before_after": 24,
+    "visual_recipes": 16,
+    "complete_case_studies": 6,
+    "behavioral_tests": 18,
+    "pinterest_slide_images": 9,
+    "sam_gaudet_screenshots": 8,
+    "prior_user_carousel_slides": 14,
+    "original_diagnostic_pdf_pages": 12
+  },
+  "files": [
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 989,
+      "sha256": "ecf1a9d0bab71880a36d0c6c2e83a7a0091dc8084026220e99c8b94da740c4fc"
+    },
+    {
+      "path": "NOTAS-DE-ORIGEM.md",
+      "bytes": 2829,
+      "sha256": "a9b401bee317437d0c42f968153fc31b15228c4a36f625a0eff49879e2d3d282"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3187,
+      "sha256": "4c8de269b297b00e22f915e5634549d1f0b9855820d87f7b586485a5d32c164d"
+    },
+    {
+      "path": "SKILL.md",
+      "bytes": 9852,
+      "sha256": "c03068c16254ca53e4ba0e2e5b084574653ef97a06eab9dff3e6e022fb69b791"
+    },
+    {
+      "path": "assets/INDEX.md",
+      "bytes": 1401,
+      "sha256": "0558360598f74dac75aa0805528715d8ae4a10cdbbe75a758464b6146ff10be8"
+    },
+    {
+      "path": "assets/backlog/_folha-contato-br.jpg",
+      "bytes": 374606,
+      "sha256": "6083d87c6b3da13d8ce065285a06cfa368fa9a852e44072fc7ae4c36c414ff25"
+    },
+    {
+      "path": "assets/backlog/_folha-contato-pm.jpg",
+      "bytes": 204115,
+      "sha256": "e2f2f02234fa09599b410a14a7f48cc91a0c69cb7edb0cc3152a4e49df61efcd"
+    },
+    {
+      "path": "assets/backlog/_folha-contato-s0.jpg",
+      "bytes": 189845,
+      "sha256": "5216bd18310754e8788dddaa1fed6cec14442617a536da0f1d41c5bea9984f69"
+    },
+    {
+      "path": "assets/backlog/_folha-contato-s1.jpg",
+      "bytes": 230878,
+      "sha256": "fdda7be46728e03954320ad13dc098493707fba53466f0ab18cc6432ab2a2507"
+    },
+    {
+      "path": "assets/backlog/_folha-contato-s2.jpg",
+      "bytes": 252110,
+      "sha256": "69d8d43d928c4e6ea3f9a5deb237328b478da33cce0dbfc9433de744f4a4f95b"
+    },
+    {
+      "path": "assets/backlog/_folha-contato-s3.jpg",
+      "bytes": 212063,
+      "sha256": "5b29fc8bc0dd5cccb324d943d27090daea412ff88e522430e4d576190bfa2d71"
+    },
+    {
+      "path": "assets/backlog/_folha-contato-s4.jpg",
+      "bytes": 191736,
+      "sha256": "6a2db7b39f6bf8af56d1c5093fdf4d0b4a0701b66c3aab6747feaecd353359b4"
+    },
+    {
+      "path": "assets/backlog/a16z-roblox-DcwjRiNiiOz-capa.jpg",
+      "bytes": 68174,
+      "sha256": "7ac969f0c00128ae9d915e41dbf6fcb25b2c6713909ba1925ea77a9b35116c31"
+    },
+    {
+      "path": "assets/backlog/adrienninet-million-dollar-brand-DUdZSCGCJqt-capa.jpg",
+      "bytes": 193303,
+      "sha256": "01748b2800c70d3546d193ffff403b4ef35f14616fe22c9f56a3eb481ca9a90c"
+    },
+    {
+      "path": "assets/backlog/allenvert-how-it-started-DayxwYamHGc-capa.jpg",
+      "bytes": 193793,
+      "sha256": "ccb43f6965d213f3f02978f4b0d8da164911557eb3c1853e354d7bca0257d8f3"
+    },
+    {
+      "path": "assets/backlog/brasilparalelo-nabuco-De-FaFKIx3Z-capa.jpg",
+      "bytes": 40447,
+      "sha256": "dbcd6b9365780e13429dd37417e745bab1b7c73d815c823b7b972acd7486a19e"
+    },
+    {
+      "path": "assets/backlog/camillemoore-dogs-DeM5jqSFPvQ-capa.jpg",
+      "bytes": 1071362,
+      "sha256": "0b731191c712b5c97d2fdebdaffba3d41da4097448441d29f464459dae3ba629"
+    },
+    {
+      "path": "assets/backlog/camillemoore-dolly-DcjbH6mlIuE-capa.jpg",
+      "bytes": 183263,
+      "sha256": "bf376e56ac388bb533712c011b986f669021aef813f87b1199c2e89c16494c8b"
+    },
+    {
+      "path": "assets/backlog/danese-maior-pedido-DbQmecGkf1m-capa.jpg",
+      "bytes": 669584,
+      "sha256": "3aa9b99d465d372a8cc6798ecfd8d1b42481e92fa732c5f56f33f547d0adb0e9"
+    },
+    {
+      "path": "assets/backlog/danese-maior-pedido-DbQmecGkf1m-slide2.jpg",
+      "bytes": 989743,
+      "sha256": "1a1f2fc4d51db19e7466d20c6430fe450a4852399a3973a2d02dc4d153d0729e"
+    },
+    {
+      "path": "assets/backlog/danese-reserva-socios-DZ2kxtZEYbc-capa.jpg",
+      "bytes": 334250,
+      "sha256": "7fff695a81a6e4d83c585ff24ee84b65da2ac26075b2ce38c307692e3ae34198"
+    },
+    {
+      "path": "assets/backlog/danese-salario-fundador-Da0ni-xFFPk-capa.jpg",
+      "bytes": 782112,
+      "sha256": "e07ce7c8431b2bfba9c9492ff6042ccfaa64020353c3514d6cbb1cf299b1aebb"
+    },
+    {
+      "path": "assets/backlog/entrepreneur-codiesanchez-DdWWkW4CE-s-capa.jpg",
+      "bytes": 50901,
+      "sha256": "b5e670e1f128b94b5bce605376588442cf9245edc430e986238061f2a5b7a9af"
+    },
+    {
+      "path": "assets/backlog/eugbrandstrat-culture-DW7wDW3jDv_-capa.jpg",
+      "bytes": 240842,
+      "sha256": "2647884f8fa19fdf03472905e6e724276cacae654bab5f654ad38b5377dd98ba"
+    },
+    {
+      "path": "assets/backlog/exame-goma-cafeina-De9-8hjgQaw-capa.jpg",
+      "bytes": 1011062,
+      "sha256": "43b3834d297e98cbbfa08359a0fe6609ae9ecea1343669511c4dac4ff800139e"
+    },
+    {
+      "path": "assets/backlog/exame-goma-cafeina-De9-8hjgQaw-slide2.jpg",
+      "bytes": 247532,
+      "sha256": "28e827d74c25acab10842e29ad46fa58c151503f924888683ab7aa449c4a1ba9"
+    },
+    {
+      "path": "assets/backlog/femalefounderworld-poppi-DHTX3VnTd7V-capa.jpg",
+      "bytes": 254368,
+      "sha256": "960dd6b43c6f591f92a94534bfa3436dbef39abdd38e3827dfe010ede53a8044"
+    },
+    {
+      "path": "assets/backlog/herfirst100k-female-ceo-DbTQYDFlPsa-capa.jpg",
+      "bytes": 172002,
+      "sha256": "b7ddc17866a7bb1c8db54bdf5a3d345260b9b7a20154e043ecaf2f83f60f5855"
+    },
+    {
+      "path": "assets/backlog/hormozi-sales-process-De586IuF_fb-capa.jpg",
+      "bytes": 50063,
+      "sha256": "207f8597752143f3c71764c066dea4399605e2540f02e81ebdacd2a00d10a9a4"
+    },
+    {
+      "path": "assets/backlog/jasonrewired-birthday-taps-DeIedMcE4kJ-capa.jpg",
+      "bytes": 337221,
+      "sha256": "ab78e6234417563ff4c4dd25f9b728fa42b555d53565bac3faee31b69fa91e49"
+    },
+    {
+      "path": "assets/backlog/markbrazil-fbi-word-DZQSKpEmEbv-capa.jpg",
+      "bytes": 344229,
+      "sha256": "d851662a197e0fa19dc23a74bac9e72c8532a6af91a30c5b1569270df14eea0a"
+    },
+    {
+      "path": "assets/backlog/morningbrew-tacobell-pepsi-De5J83Zgeb_-capa.jpg",
+      "bytes": 49099,
+      "sha256": "4cc59ff82adc120270b65ce3aa5aeab3827cdf3fd7a9fd75e342c93a3a2ec799"
+    },
+    {
+      "path": "assets/backlog/pm_alec-reunioes-DdmzxRtj-Xv-capa.jpg",
+      "bytes": 164468,
+      "sha256": "4ddaa9ee7db13f76fe4d3879790e211f0d2c489139e551713733660073ffd103"
+    },
+    {
+      "path": "assets/backlog/reputeforge-marketing-is-DPCEqJ3EiHj-capa.jpg",
+      "bytes": 126565,
+      "sha256": "18d4db4379043afcd48dd22e826c51aa8ed35c8f56526cdd788aa98abdf26681"
+    },
+    {
+      "path": "assets/backlog/ruffinmitchener-gruns-DbBstaPgUv6-capa.jpg",
+      "bytes": 168193,
+      "sha256": "4f422e1976046ce0f9aab4c057589d8897b01edc700fc64415587eb06e38a571"
+    },
+    {
+      "path": "assets/backlog/stanforcreators-nina-DcRz-56Elmd-capa.jpg",
+      "bytes": 1164504,
+      "sha256": "af1ec11a9e29f0879d4db6b87380d71d1c89ffd9886be73ea22c0e575e2f80a6"
+    },
+    {
+      "path": "assets/backlog/thenewsbusiness-chinesas-ecommerce-De5a0EJjm8U-capa.jpg",
+      "bytes": 98214,
+      "sha256": "6110b57185b1469a1bb9b7fb1ed65194073fa3329321bf09166b7aaeec6a8375"
+    },
+    {
+      "path": "assets/backlog/thenewsbusiness-coca-kfc-De-T9uTCAqi-capa.jpg",
+      "bytes": 939675,
+      "sha256": "cb06a66d717c69efa1c44a4d87aae67aba072bd5fd7f4924b99714669f4f31cf"
+    },
+    {
+      "path": "assets/backlog/thiagonigro-tweetcard-De4FWEWGtD0-capa.jpg",
+      "bytes": 30514,
+      "sha256": "9f6546b4251da6feee24220c6dff585ebb5e47cb46621f6535d89a19984f4317"
+    },
+    {
+      "path": "assets/backlog/tomnoske-how-much-i-made-DVLa4lZE13m-capa.jpg",
+      "bytes": 400341,
+      "sha256": "e5e825c8340e0a02d3ad27ff164e1c478bcc3d5af307743c9170c5a8aefde410"
+    },
+    {
+      "path": "assets/backlog/visualizevalue-repeat-DdJfyubkTDo.jpg",
+      "bytes": 6501,
+      "sha256": "befe27a9003afbdb2599e1ba14e2562f66f786024b88de46cd263f944da59fed"
+    },
+    {
+      "path": "assets/concorrente-barato/01.png",
+      "bytes": 1265673,
+      "sha256": "c77de1b0577d949aa39773988dcdca72f012c518bee9514d005454cd4efd2789"
+    },
+    {
+      "path": "assets/concorrente-barato/02.png",
+      "bytes": 1408887,
+      "sha256": "fbaa8b5a8f9d8dff016873c3f13aee957769f81284575391c89b117d96f1a60d"
+    },
+    {
+      "path": "assets/concorrente-barato/03.png",
+      "bytes": 772558,
+      "sha256": "c5d8f27fb90c6b078d95797b36a7f2d89218ad60556a76950afe3d7a3d3fe1b9"
+    },
+    {
+      "path": "assets/concorrente-barato/04.png",
+      "bytes": 1383800,
+      "sha256": "852d7ef4e45f9fa9d28e9052df13282a532b9e5474e248eb0f2d3f5db4eadc6b"
+    },
+    {
+      "path": "assets/concorrente-barato/05.png",
+      "bytes": 774974,
+      "sha256": "13e1f4c23759119a2932ac237ffaadae64feef41dded734df70bfebe3a105ce7"
+    },
+    {
+      "path": "assets/concorrente-barato/06.png",
+      "bytes": 1412914,
+      "sha256": "b21fe303595ae3f5d5bc129158514a3b96c1eac72ad150d49a28a904a19726d1"
+    },
+    {
+      "path": "assets/concorrente-barato/07.png",
+      "bytes": 1112176,
+      "sha256": "f3ad14faf83d745bf0b7f1b2adfe3ea0e695ac574a10d53039951c249b952a54"
+    },
+    {
+      "path": "assets/concorrente-barato/08.png",
+      "bytes": 1257532,
+      "sha256": "e131727190042a9fea11e2c8c42c286e2b5e1a4e0a8c8c67be4e9ec9429cd76b"
+    },
+    {
+      "path": "assets/concorrente-barato/09.png",
+      "bytes": 787005,
+      "sha256": "a131cabecfd7cfe43fbdc42f1205c52f36d54973a36c6655911b1c8a5cd93ffe"
+    },
+    {
+      "path": "assets/concorrente-barato/10.png",
+      "bytes": 783806,
+      "sha256": "804fb0f90c68939bd9092ae75d1a6517306d0359347bcdbfc780754ae498515b"
+    },
+    {
+      "path": "assets/concorrente-barato/11.png",
+      "bytes": 1386547,
+      "sha256": "c025a141f3e7dfdc648f6bcb928e54295d65115b440c7109ad4e3a29b37fd7dc"
+    },
+    {
+      "path": "assets/concorrente-barato/12.png",
+      "bytes": 763902,
+      "sha256": "7559545219e93718f9e0b60878c64b3457992f1d596dd65d3a56285e100d8293"
+    },
+    {
+      "path": "assets/concorrente-barato/13.png",
+      "bytes": 784853,
+      "sha256": "57b927c9e404164ad45a614877b2c78afd0d92683474ecc83ff6882ff9ca8f2f"
+    },
+    {
+      "path": "assets/concorrente-barato/14.png",
+      "bytes": 1471077,
+      "sha256": "7c4315bb85b08225c1c7cc942d6c3f138d4e4477d71f72341615e701a3bf894a"
+    },
+    {
+      "path": "assets/concorrente-barato/_contato.png",
+      "bytes": 749825,
+      "sha256": "d0a3900e763b3086ee2d45837530a5ad9c206f273664c5d0907bf471588b53ea"
+    },
+    {
+      "path": "assets/diagnostico/diagnostico-carrosseis-virais.pdf",
+      "bytes": 9634332,
+      "sha256": "eded52b9e110ede855289f2e7b6e273fcdcbb5ac91725309dd7e6cbfde7270bf"
+    },
+    {
+      "path": "assets/guias-visuais/contato-backlog.jpg",
+      "bytes": 712534,
+      "sha256": "2cab5350ce5fc5f460b2063f79d3fe5549efdcc2286a8b44eeac920ed00a3492"
+    },
+    {
+      "path": "assets/guias-visuais/contato-concorrente.jpg",
+      "bytes": 185469,
+      "sha256": "634fef8973833da4d49ee94269f7c1770b7fb4f650d6747f2872028afa7ba36f"
+    },
+    {
+      "path": "assets/guias-visuais/contato-pinterest.jpg",
+      "bytes": 229750,
+      "sha256": "382f8916ca26f2def28f8daab509e2aa6c8362c1857c2cf029caf10333644390"
+    },
+    {
+      "path": "assets/guias-visuais/contato-sam.jpg",
+      "bytes": 140149,
+      "sha256": "0caf16b6da151ef2824a3407d0400d669c803c8ed6bace29d70e9c7c8de44cde"
+    },
+    {
+      "path": "assets/mercado-livre/preview-v3.png",
+      "bytes": 2060049,
+      "sha256": "602b3b6b92d0eaaa1cca8d09377bd034c74df12d2571d2897ce53e48f65ed157"
+    },
+    {
+      "path": "assets/mercado-livre/slide-01.png",
+      "bytes": 267215,
+      "sha256": "636f530932497cbd413ff21fbfa5f1f2e442dc2cc892354cfd539aa8751d5dd7"
+    },
+    {
+      "path": "assets/mercado-livre/slide-02.png",
+      "bytes": 173349,
+      "sha256": "ae0193e100d01099d52c579433bd86c541deda7f5ac517b77afa2311a53967f8"
+    },
+    {
+      "path": "assets/mercado-livre/slide-03.png",
+      "bytes": 240106,
+      "sha256": "5101487924414ad70b759fd17d24c19c6fa2d5e2b615e32459415a6b0b538d89"
+    },
+    {
+      "path": "assets/mercado-livre/slide-04-antecipacao-rejeitada.png",
+      "bytes": 1650579,
+      "sha256": "4af7ee47add1f7b3d1e25e650d7f3b8e22c93139489e1899ecdb5222fb370c6f"
+    },
+    {
+      "path": "assets/mercado-livre/slide-04-cards-rejeitados.png",
+      "bytes": 218140,
+      "sha256": "ce2d175cedd84de86c63bab1052ca96be2d1659124f55e8f87e9dd03a108a07c"
+    },
+    {
+      "path": "assets/mercado-livre/slide-04-final.png",
+      "bytes": 1656916,
+      "sha256": "0059b95bf4d69b52a2816b7b2fe678f496372750e8f33d8f0a9628fb6222138e"
+    },
+    {
+      "path": "assets/mercado-livre/slide-04.png",
+      "bytes": 218140,
+      "sha256": "ce2d175cedd84de86c63bab1052ca96be2d1659124f55e8f87e9dd03a108a07c"
+    },
+    {
+      "path": "assets/mercado-livre/slide-05.png",
+      "bytes": 204943,
+      "sha256": "a3803cf55f8464bbfe3f7d4ab753eba7d66c71cef1c3bbac19fff3c2ef7ea3f9"
+    },
+    {
+      "path": "assets/mercado-livre/slide-06.png",
+      "bytes": 193856,
+      "sha256": "843e604475480e63ef9b5fdf1d165dc27d956f92051161ac59485737148d2050"
+    },
+    {
+      "path": "assets/mercado-livre/slide-07.png",
+      "bytes": 248188,
+      "sha256": "9694ee0351f93762f24d432726641f0258932f16619dd9767e9cf14dea826ed8"
+    },
+    {
+      "path": "assets/mercado-livre/slide-08.png",
+      "bytes": 232444,
+      "sha256": "b2a0a0a1c7548747fcd51f13882a3f1b27d3f8ccdb73556ab889b5ac81575ebf"
+    },
+    {
+      "path": "assets/pinterest/pinA_01.jpg",
+      "bytes": 221944,
+      "sha256": "d8b404b3825c4ae138847ce9b8e2d13c582a9f99bafa3e9d2925e345f65a42d6"
+    },
+    {
+      "path": "assets/pinterest/pinA_02.jpg",
+      "bytes": 259853,
+      "sha256": "10f4fc8f96b46836adb3232eb04f30e65fac8ef792314aa529b2b121fbacd56c"
+    },
+    {
+      "path": "assets/pinterest/pinA_03.jpg",
+      "bytes": 190760,
+      "sha256": "c8a964c5ea167759f4895a00ab2376a4cb06b00fc18bb39ad41e322c3271ce8f"
+    },
+    {
+      "path": "assets/pinterest/pinA_04.jpg",
+      "bytes": 182142,
+      "sha256": "c31f39f7a826dc5086a357d276bc1dccd01e8f4785fb92c24350f4f9efa38e1c"
+    },
+    {
+      "path": "assets/pinterest/pinB_01.jpg",
+      "bytes": 259154,
+      "sha256": "5fe9e225c4aa41a4713072b8101c00e91da4a8bb7aedaf02d0290b1b28a0f195"
+    },
+    {
+      "path": "assets/pinterest/pinB_02.jpg",
+      "bytes": 293124,
+      "sha256": "ce8cf6c42f2d319be2f16eb4640dffeb60ec601431cce4e10930bb7ca6c29a54"
+    },
+    {
+      "path": "assets/pinterest/pinB_03.jpg",
+      "bytes": 199015,
+      "sha256": "b4507fd2457c58dd43f9e7b77ec7e9bf8bc992628793e47235b614ee62ba9c9e"
+    },
+    {
+      "path": "assets/pinterest/pinB_04.jpg",
+      "bytes": 250729,
+      "sha256": "45687460fdf090a3bd92db941164a705b1b134021074b5665cc3df128b5c5980"
+    },
+    {
+      "path": "assets/pinterest/pinB_05.jpg",
+      "bytes": 287060,
+      "sha256": "219f806a873a34c57047ddcdc070ff44536bbba058b2531fe0aa925d2d0b07ac"
+    },
+    {
+      "path": "assets/sam-gaudet/01M5XJ4RMYZE0332STY6H99Z39.png",
+      "bytes": 1664471,
+      "sha256": "06446467866698da24df0ca8d74dc0bd5dfc2bae11e588c3f8af6a4ff3165d3a"
+    },
+    {
+      "path": "assets/sam-gaudet/01M5XJ4VDKJW8C76XW4GW1QY82.png",
+      "bytes": 1756946,
+      "sha256": "4c92ae630e123ce67fac820a154a941029b6b3c406b4eed51d36579be6ffe69c"
+    },
+    {
+      "path": "assets/sam-gaudet/01M5XJ4WT3SAE3DAC5EX7HGGJ8.png",
+      "bytes": 1637919,
+      "sha256": "b67ef617f795c6b495cff2b8b0bcab0ef20904c6ee750c70dc9039bd16101c9a"
+    },
+    {
+      "path": "assets/sam-gaudet/01M5XJ4Y2FMKTXND21X3RX3GPP.png",
+      "bytes": 1708179,
+      "sha256": "7037bf6e167f83057f18d588bcc04b7bcc882dc1655c54bb3c7ba6eec0958146"
+    },
+    {
+      "path": "assets/sam-gaudet/01M5XJ4ZEDGWZNR0856H7CJ22B.png",
+      "bytes": 1790525,
+      "sha256": "fdb5761074682aefdf852608effed2842b88ab2c7baae7b2115db719dfa4ba87"
+    },
+    {
+      "path": "assets/sam-gaudet/01M5XJ50TJ79M0JSNSJ024T9WX.png",
+      "bytes": 1742988,
+      "sha256": "5a7afe8f04713ef57fbfaeb16ac8d75eedbf387eaa23e065031bf3d6bdfa5e7a"
+    },
+    {
+      "path": "assets/sam-gaudet/01M5XJ528N1HSRX5C4SZTA1XC9.png",
+      "bytes": 1839669,
+      "sha256": "13b61900bc881e086c71af9db30be8d447132dc2a30b2edc1c706becb6116899"
+    },
+    {
+      "path": "assets/sam-gaudet/01M5XJ53E9RMYZ8TKTK2KQ1HYF.png",
+      "bytes": 1729013,
+      "sha256": "ba2eaaf7f6434b312ce8ad0d0bfde3492695ebb87849cf7024373f363b8a66d7"
+    },
+    {
+      "path": "examples/banco-80-ganchos.md",
+      "bytes": 14250,
+      "sha256": "0bea41ed57c4e0a0df3c3d1fb2b827f6f581fd193e9f2ff5e223d80ba9b7d818"
+    },
+    {
+      "path": "examples/casos/01-mercado-livre.md",
+      "bytes": 8687,
+      "sha256": "6b894fb50471774bd5d6cdf7fcff994c9be66a1fa72a3d22a5c5b7d4a5c7993f"
+    },
+    {
+      "path": "examples/casos/02-concorrente-barato.md",
+      "bytes": 4156,
+      "sha256": "7554b1df59b8ff35985b502a2b2d3dec14dcdf8c3b5bd079da80d7a7f490b867"
+    },
+    {
+      "path": "examples/casos/03-agentes-de-ia.md",
+      "bytes": 2474,
+      "sha256": "948336b55233fe6464abf51e297ec1d5a3334602fc6f8e7eba70451ab2fc3157"
+    },
+    {
+      "path": "examples/casos/04-lista-objecoes.md",
+      "bytes": 2087,
+      "sha256": "21c900ff337cb663166e48781ceb45efe6bb0fa58934e2986617d8accdbd765c"
+    },
+    {
+      "path": "examples/casos/05-storytelling-onboarding.md",
+      "bytes": 1913,
+      "sha256": "991098976be48930ccbb0d8a645a3ace9875e07406f672e78d2dba56beb01859"
+    },
+    {
+      "path": "examples/casos/06-opiniao-crm.md",
+      "bytes": 1573,
+      "sha256": "47b82467ea1fb990451baedd1d4cf9c4a1956473662dffd6a68f0ab552ee5b35"
+    },
+    {
+      "path": "examples/diagnosticos-executados.md",
+      "bytes": 4762,
+      "sha256": "bdf149f438a4fde6c114570f24c502ad839ff2112fb84aad56774f75927e3428"
+    },
+    {
+      "path": "examples/ganchos-historicos-calibrados.md",
+      "bytes": 5143,
+      "sha256": "f4a18135cd6e95fdddc1842bf27744eb3a69c5adc93c3b523d3f56afb8dcd530"
+    },
+    {
+      "path": "examples/receitas-visuais.md",
+      "bytes": 9360,
+      "sha256": "fbe99f405130522d921233671139668a781ddd10a8763d8056fa2a8e5a884c59"
+    },
+    {
+      "path": "examples/transicoes-antes-depois.md",
+      "bytes": 6288,
+      "sha256": "5116083874f352d125c0cdc14e9e6a8f088d44896e10dbea98ac71e4a9747a02"
+    },
+    {
+      "path": "playbooks/01-arquitetura.md",
+      "bytes": 4833,
+      "sha256": "7bbfd0e378a4cff3983558c0a013af1095c619f9bdc8aade05111a21ed9b78e4"
+    },
+    {
+      "path": "playbooks/02-ganchos-identificacao.md",
+      "bytes": 5188,
+      "sha256": "984edca9d48c18e0d0632e9bf52a48019a1c72c493d4f574ebc96ae8b3a9ba05"
+    },
+    {
+      "path": "playbooks/03-ganchos-curiosidade.md",
+      "bytes": 5429,
+      "sha256": "4ee21de4a3834993853e49b1f920bd0af6145fc3f5c5a87e930c0b893b72ac4e"
+    },
+    {
+      "path": "playbooks/04-retencao-e-frameworks.md",
+      "bytes": 7623,
+      "sha256": "0da845bbf6c2a5d043f7ff0de4e616f4861deeeca04957af726b853ea51d8b8f"
+    },
+    {
+      "path": "playbooks/05-direcao-de-arte.md",
+      "bytes": 7782,
+      "sha256": "7783b1808857791bfd59dd001daed5663707dd58b14dc33597625920094e50d1"
+    },
+    {
+      "path": "playbooks/06-producao-e-revisao-local.md",
+      "bytes": 4022,
+      "sha256": "11959859447b51e63cc039bedf16c006fb307b31e48a15f38cec58399408fb22"
+    },
+    {
+      "path": "playbooks/07-escopo-editorial.md",
+      "bytes": 2349,
+      "sha256": "2305c6cca1440f19ad0e137774e4775ff7a2bcd3a4a855be4cc317e59aaaaa03"
+    },
+    {
+      "path": "profiles/davi.md",
+      "bytes": 3601,
+      "sha256": "e1d9f1325be0bf4ee98dfac20d249d9bacc150ca6e3b8c4122b13e298d2c8afe"
+    },
+    {
+      "path": "referencias/backlog-formatos.md",
+      "bytes": 7440,
+      "sha256": "d2bc40f5c5ba1d7f30fdf1c786ad70cfb814eb16989e84828e117f402b657fa6"
+    },
+    {
+      "path": "referencias/banco-de-criadores.md",
+      "bytes": 4786,
+      "sha256": "4c84cf16903a435c095b329e3d827850938d61e44911c6ab25745fbbad59f8b7"
+    },
+    {
+      "path": "referencias/diagnostico-pdf-12-paginas.md",
+      "bytes": 7107,
+      "sha256": "1741391d7c49aa07c0f144fdf2c81e0d6fc1e04c0de7637c748f27ed2073cedf"
+    },
+    {
+      "path": "referencias/instagram-e-pinterest.md",
+      "bytes": 2763,
+      "sha256": "46c10ae2ada394475f7e5b2a895b6bdd53ec9abde559ea66417b24e1f601604b"
+    },
+    {
+      "path": "referencias/pinterest-anotado.md",
+      "bytes": 6620,
+      "sha256": "35db26201049282a8e83bebd866cb1ecb06938ea718c569fafec9316d78df76c"
+    },
+    {
+      "path": "tests/criterios-e-cenarios.md",
+      "bytes": 7190,
+      "sha256": "73c6bbc24fee1072109f67f6545b7ee7e9c9d5ce0b2c80f6b6b207ea07384ba9"
+    },
+    {
+      "path": "tests/promptes-de-prova.md",
+      "bytes": 1326,
+      "sha256": "d7f143dfb6e1497ce3bab8c8996aae6dd9c3855a252eea46c4bb65ff90f3d3ea"
+    },
+    {
+      "path": "tests/verifica-estrutura.py",
+      "bytes": 1744,
+      "sha256": "0cc05fa827f1c4994ee3066799f1a1f2774546d67b9058644f282fa008f032ff"
+    }
+  ]
+}
